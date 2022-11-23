@@ -1,0 +1,8 @@
+.Podcasts h1{
+    font-size: 42px;
+}
+.Podcasts-wrapper {
+    display: grid;
+    row-gap: 30px;
+    margin-bottom: 30px;
+  }

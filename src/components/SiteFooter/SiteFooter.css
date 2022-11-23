@@ -1,0 +1,95 @@
+.Site-footer {
+  margin-top: 104px;
+    padding: 140px 0 135px;
+    background-color: black;
+    color: white;
+  }
+  
+  .Site-footer h2 {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1.3;
+    margin: 0 0 3.2em 0;
+  }
+  .wrap{
+    margin-left: 97.5px;
+    margin-right: 97.5px;
+  }
+  
+  .Site-footer .Footer-container .Footer-logo {
+    display: block;
+    margin-bottom: 88px;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets .Footer-widget-left {
+    width: 26%;
+    padding-top: 0;
+    padding-right: 40px;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets .Footer-widget-center {
+    width: 55%;
+    padding-right: 40px;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets .Footer-widget-right {
+    width: 19%;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets .Footer-widget-right li {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets ul {
+    padding: 0 0 32px;
+    list-style: none;
+    margin: 0;
+  }
+  
+  .Site-footer .Footer-container .Footer-widgets li {
+    margin: 0 0 16px 0;
+  }
+  
+  .Site-footer .Footer-container a {
+    margin-bottom: 16px;
+    color: #929497;
+    display: inline-block;
+    text-decoration: none;
+  }
+  
+  .Site-footer .Footer-container .Footer-info {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 252px;
+  }
+  
+  .Site-footer .Footer-container .Footer-info .Copyright {
+    width: 60%;
+    padding-right: 30px;
+  }
+  
+  .Site-footer .Footer-decoration {
+    position: relative;
+  }
+  
+  .Site-footer .Footer-decoration svg {
+    position: absolute;
+    bottom: -133px;
+    right: -40px;
+    width: 425px;
+  }
+  
+  .Site-footer a:hover {
+    color: white;
+  }
+  
+  .Site-footer a:hover path {
+    fill: #ffffff;
+  }

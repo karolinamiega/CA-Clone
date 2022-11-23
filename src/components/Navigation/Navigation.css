@@ -1,0 +1,59 @@
+.Main-header{
+    background-color: white;
+    padding: 10px 0;
+    width: 100%;
+    height: 83px;
+    position: sticky;
+    top: 0px;
+    z-index: 5;
+}
+.Main-header .Header-wrap {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+img{
+    margin-left: 127.5px;
+    display: flex;
+    position: absolute;
+    top: 20px;
+}
+.Main-header .Main-navigation {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+    margin-left: 60px;
+  }
+.Main-menu{
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 400px;
+    justify-content: flex-end;
+    row-gap: 20px;
+    column-gap: 30px;
+    font-weight: bold;
+}
+.Menu-item a{
+    text-decoration: none;
+    color: black;
+}
+.Button{
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    min-width: 170px;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 13px 30px 11px;
+    box-sizing: border-box;
+    background: #1200ff;
+    outline: 0;
+    line-height: 1.4;
+    border: 1px solid #1200ff;
+    font-weight: bold;
+    cursor: pointer;
+}

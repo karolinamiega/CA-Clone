@@ -1,0 +1,17 @@
+.button-title {
+    background-color: white;
+    display: block;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .button-title:hover svg {
+    fill: #ff00e9;
+  }

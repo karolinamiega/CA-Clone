@@ -1,0 +1,6 @@
+.Secondary-news {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-bottom: 30px;
+  }

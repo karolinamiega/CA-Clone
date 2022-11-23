@@ -1,0 +1,38 @@
+.Secondary-news-article {
+    width: calc((100% - 30px) / 2);
+  }
+  .Secondary-top-news-text{
+    padding: 0
+  }
+  
+  .Secondary-news-article a {
+    display: flex;
+    column-gap: 20px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .Secondary-news-article .Image-wrapper {
+    width: 75%;
+    height: 75%;
+  }
+  .Header{
+    margin-top: 0;
+    margin-bottom: 12px;
+    line-height: 1.17;
+    text-transform: uppercase;
+    color: #1200ff;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    font-size: 12px;
+  }
+  .Text{
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .Date{
+    letter-spacing: 1.2px;
+    font-size: 12px;
+    margin-top: 10px;
+    line-height: 1.17;
+  }
